@@ -184,6 +184,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 58c973e7ea624ca59148ac898837da78, type: 3}
   - {fileID: 21300000, guid: cfae7e947c714fc099090edb1e697ccc, type: 3}
   - {fileID: 21300000, guid: 1b57aaa5888e4c1f8be88e50cd2c26c2, type: 3}
+  - {fileID: 21300000, guid: 422315c4938b5b2488427bef90fc9380, type: 3}
   hitFrames:
   - {fileID: 21300000, guid: 093842fbdbb744a68cd3b599aec1d46d, type: 3}
   - {fileID: 21300000, guid: 77625091bcb642299a7a80276771301a, type: 3}
@@ -192,6 +193,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 708562abdd88489880ef255db418bd5f, type: 3}
   - {fileID: 21300000, guid: c207956a914b4a02bb1ae40b2a36740c, type: 3}
   - {fileID: 21300000, guid: c47be02a12214d14a1d10ff5e23b0cc7, type: 3}
+  - {fileID: 21300000, guid: 25080516e08cbd24c9a11a7c71e1cfd7, type: 3}
   idleFrameTimes:
   - 0.1667
   - 0.1667
