@@ -593,8 +593,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 60, y: 50}
-  m_SizeDelta: {x: 214, y: 87}
+  m_AnchoredPosition: {x: 156, y: 55}
+  m_SizeDelta: {x: 148.6549, y: 60.434}
   m_Pivot: {x: 0, y: 0}
 --- !u!1 &907461284
 GameObject:
@@ -960,8 +960,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -60, y: 50}
-  m_SizeDelta: {x: 214, y: 87}
+  m_AnchoredPosition: {x: -461, y: 328}
+  m_SizeDelta: {x: 148.1917, y: 60.2461}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1314167295
 MonoBehaviour:
@@ -1104,8 +1104,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -60, y: -50}
-  m_SizeDelta: {x: 214, y: 87}
+  m_AnchoredPosition: {x: -125.81, y: -43}
+  m_SizeDelta: {x: 152.7911, y: 62.116}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1314353523
 MonoBehaviour:
@@ -1252,8 +1252,12 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: 29a56b1aa0beece41ae339d27ddb9d75, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 0}
-    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: 94927100f757ffe42ac868085945b636, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: a9a502c46d67d0643b4053a4bc68aafa, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: a9a502c46d67d0643b4053a4bc68aafa, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
 --- !u!4 &1646451967
